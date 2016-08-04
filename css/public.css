@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*公共样式*/
+.margin{width:980px;margin:0 auto;}
+.left{float:left;}
+.right{float:right;}
+.clear{zoom:1;}
+.clear:after{content:"";display:block;visibility:hidden;overflow:hidden;height:0;clear:both;}
+.over{text-overflow:ellipsis;overflow:hidden;white-space:nowrap;}
+
+.cu{cursor:pointer;}
+
+
+
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{margin:0;padding:0}
+body{font:12px "宋体","Arial Narrow",HELVETICA;background:#fff;}
+a{color:#172c45;text-decoration:none} 
+a:hover{color:#cd0200;text-decoration:underline} 
+em{font-style:normal}
+li{list-style:none}
+img{border:0;vertical-align:middle} 
+table{border-collapse:collapse;border-spacing:0}
+
+
+input{border:0;}
+
+ 
+
+/*套路样式*/
+
+
